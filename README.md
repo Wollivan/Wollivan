@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Wollivan
+- 👀 I’m interested in 3D Printing, Pizza, and Tech for Good
+- 🌱 I’m currently learning react.js
+- 💞️ I’m looking to collaborate on all the fun projects
+- 📫 How to reach me https://www.linkedin.com/in/timsmith-web/
