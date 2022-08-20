@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning to be the best teacher I can be so I'm always open to tips
 - 💞️ I’m looking to collaborate on all the fun projects... Seriously. Hit me up!
 - 📫 How to reach me: https://www.linkedin.com/in/tim-js/
-- 🤙 This is a much more interesting website than LinkedIn: https://timjs.netlify.app
+- 🤙 This is a much more interesting website than that: https://timjs.netlify.app
