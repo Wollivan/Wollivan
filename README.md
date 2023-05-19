@@ -5,3 +5,4 @@
 - 💞️ I’m looking to collaborate on all the fun projects... Seriously. Hit me up!
 - 📫 How to reach me: https://www.linkedin.com/in/tim-js/
 - 🤙 But that is boring so look at this instead: https://timjs.netlify.app
+- 🎲 After all that reading you deserve to play a game... play this one https://github.com/Wollivan/SquadronLeader
